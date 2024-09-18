@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning how to program ENTRA ID, SSO, MFA SAM 
 - 🌱 I’m currently learning ...ENTRA DEFENDER  
 - 💞️ I’m looking to collaborate on ...DEFENDER malware scanning and MFA enforcement with SSO with bitwarden
-- 📫 How to reach me ...david@m2compliance.com    
+- 📫 How to reach me ...davidcmcguire@icloud.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
